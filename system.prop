@@ -1,0 +1,11 @@
+#
+# system.prop for logan2g
+#
+
+# LCD density
+ro.sf.lcd_density=240
+
+# Miminum brightness
+ro.lcd_min_brightness=20
+
+ro.product.hardware=logan
